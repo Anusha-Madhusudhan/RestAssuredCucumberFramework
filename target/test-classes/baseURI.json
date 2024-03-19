@@ -1,0 +1,7 @@
+{
+"users":"https://jsonplaceholder.typicode.com",
+"employees":"https://dummy.restapiexample.com/api/v1",
+"countries":"https://restcountries.com/v3.1/name",
+"posts":"https://jsonplaceholder.typicode.com",
+"rentalCars":"http://localhost:9090"
+}
